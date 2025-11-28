@@ -33,4 +33,4 @@ Always respond in Chinese-simplified
 
 后果： 路径解析错误，找不到文件。
 
-✅ 5. 如非必要, 操作当前dir的文件时使用相对路径. 这有助于解决**Error: File has been unexpectedly modified. Read it again before attempting to write it.**问题. 
+✅ 5. 如非必要, 操作当前dir的文件时使用绝对路径. 这有助于解决**Error: File has been unexpectedly modified. Read it again before attempting to write it.**问题. 
